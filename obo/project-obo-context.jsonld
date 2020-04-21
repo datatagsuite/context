@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "Project": "obo:Project",
+    "identifier": {
+      "@id": "obo:IAO_0000577",
+      "@type": "obo:Text"
+    },
+    "name": {
+      "@id": "obo:IAO_0000590",
+      "@type": "xsd:string"
+    },
+    "description": {
+      "@id": "obo:IAO_0000300",
+      "@type": "xsd:string"
+    },
+    "project_assets": {
+        "@id":"obo:BFO_0000051",
+        "@type":["obo:IAO_0000100", "obo:OBI_0000066"]
+  },
+    "project_leads": {
+        "@id":"obo:OBI_0000243",
+        "@type":["obo:OBI_0000245", "obo:NCBITaxon_9606"]
+  }
+}
+}
