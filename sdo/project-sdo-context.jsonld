@@ -16,10 +16,11 @@
     },
     "project_assets": {
         "@id":"sdo:hasPart",
-        "@type":["sd:Dataset", "sdo:MedicalStudy"]}
-  },
+        "@type":["sd:Dataset", "sdo:MedicalStudy"]
+    },
     "project_leads": {
         "@id":"sdo:sponsor",
-        "@type":["sd:Organization", "sdo:Person"]}
+        "@type":["sd:Organization", "sdo:Person"]
+    }
   }
 }
