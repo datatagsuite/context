@@ -21,6 +21,8 @@
     "project_leads": {
         "@id":"sdo:sponsor",
         "@type":["sd:Organization", "sdo:Person"]
-    }
+    },
+    "primaryPublications": "sdo:citation",
+    "citations": "sdo:citation",
   }
 }
