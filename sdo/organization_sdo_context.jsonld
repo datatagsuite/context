@@ -14,6 +14,8 @@
         "@id": "sdo:name",
         "@type": "sdo:Text"
     },
+    "email": "sdo:email",
+    "phoneNumber": "sdo:telephone",
     "location": {
         "@id": "sdo:address",
         "@type": "sdo:Text"

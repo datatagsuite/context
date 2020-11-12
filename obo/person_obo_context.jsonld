@@ -9,6 +9,7 @@
     "lastName": "obo:IAO_0000302",
     "fullName": "obo:IAO_0000590",
     "email": "obo:IAO_0000429",
+    "phoneNumber" "SIO:001319"
     "affiliations":
     {
       "@id":"obo:IAO_0000303",
