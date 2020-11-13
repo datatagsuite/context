@@ -7,6 +7,11 @@
     "lastName": "sdo:familyName",
     "fullName": "sdo:name",
     "email": "sdo:email",
+    "phoneNumber": "sdo:telephone",
+    "location": {
+        "@id": "sdo:address",
+        "@type": "sdo:Text"
+    },
     "affiliations": "sdo:affiliation",
     "roles": "sdo:roleName"
   }
