@@ -22,6 +22,8 @@
     "project_leads": {
         "@id":"obo:OBI_0000243",
         "@type":["obo:OBI_0000245", "obo:NCBITaxon_9606"]
-  }
+  },
+  "primaryPublications": "obo:IAO_0000301",
+  "citations": "obo:IAO_0000301",
 }
 }
