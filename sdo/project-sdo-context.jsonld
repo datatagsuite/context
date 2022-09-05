@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "sdo": "https://schema.org/",
+    "Project": "sdo:Project",
+    "identifier": {
+      "@id": "sdo:identifier",
+      "@type": "sdo:Text"
+    },
+    "name": {
+      "@id": "sdo:name",
+      "@type": "sdo:Text"
+    },
+    "description": {
+      "@id": "sdo:description",
+      "@type": "sdo:Text"
+    },
+    "project_assets": {
+        "@id":"sdo:hasPart",
+        "@type":["sd:Dataset", "sdo:MedicalStudy"]
+    },
+    "project_leads": {
+        "@id":"sdo:sponsor",
+        "@type":["sd:Organization", "sdo:Person"]
+    },
+    "primaryPublications": "sdo:citation",
+    "citations": "sdo:citation",
+}
