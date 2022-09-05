@@ -32,6 +32,10 @@
       "@id":"obo:BFO_0000051",
       "@type" : "obo:STATO_0000193"
     },
+    "characteristics": {
+      "@id" : "obo:RO_0000086",
+      "@type" : "obo:quality"
+    },
     "usesReagent" : {
       "@id":"obo:RO_0000057",
       "@type" : "obo:OBI_0001879"
