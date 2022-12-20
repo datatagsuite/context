@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "@language": "en",
+    "obo": "http://purl.obolibrary.org/obo/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "identifier": "obo:IAO_0000577",
+    "name": "obo:IAO_0000590",
+    "description": "obo:IAO_0000300",
+    "abbreviation": "obo:IAO_0000605",
+    "dates": {
+      "@id": "obo:RO_0002537",
+      "@type": "xsd:date"
+    }
+    "condition_qualifier": "obo:DUO_0000017"
+  }
+}
